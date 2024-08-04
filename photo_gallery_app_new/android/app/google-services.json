@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "200248842430",
+    "project_id": "gallry-cfed5",
+    "storage_bucket": "gallry-cfed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200248842430:android:6254c587f8beddf65c26ef",
+        "android_client_info": {
+          "package_name": "com.example.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nGXd_xLUIkEVJl4PVL0YbNeRmIsK1Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200248842430:android:e918e8e9092b6e8c5c26ef",
+        "android_client_info": {
+          "package_name": "com.example.photo_gallery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nGXd_xLUIkEVJl4PVL0YbNeRmIsK1Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200248842430:android:3a267703e049ce1c5c26ef",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_nGXd_xLUIkEVJl4PVL0YbNeRmIsK1Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
